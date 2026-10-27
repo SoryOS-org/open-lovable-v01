@@ -1,0 +1,8 @@
+{
+  "name": "Open Lovable v3",
+  "description": "Re-imagine any website in seconds with AI-powered website builder.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
